@@ -1,0 +1,6 @@
+{
+  "name": "Ramay Entertainment - India's Integrated Media Distribution Network",
+  "description": "Central India's fastest growing entertainment network offering multiplatform services, Web series, TV serials, Talkshows, Music albums, Film PR, cinema advertising, and pan-India media distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
