@@ -35,8 +35,11 @@ export const Footer: React.FC<FooterProps> = ({
             <div className="p-3.5 rounded-xl bg-slate-800/80 border border-slate-700/80 text-xs text-sky-300">
               <span className="font-semibold text-white">Positioning:</span> {BRAND_POSITIONING}
             </div>
-            <div className="text-xs text-slate-400">
-              <span className="text-white font-medium">Headquarters:</span> Vijay Nagar Commercial Hub, Indore, Madhya Pradesh 452010
+            <div className="text-xs text-slate-400 space-y-1">
+              <p><span className="text-white font-medium">Headquarters:</span> Vijay Nagar Commercial Hub, Indore, MP 452010</p>
+              <p><span className="text-white font-medium">Phone:</span> <a href="tel:+919039655399" className="hover:text-sky-400 text-slate-300 font-semibold">+91 90396 55399</a></p>
+              <p><span className="text-white font-medium">WhatsApp:</span> <a href="https://wa.me/919993540314" target="_blank" rel="noreferrer" className="hover:text-emerald-400 text-emerald-300 font-semibold">+91 99935 40314</a></p>
+              <p><span className="text-white font-medium">Email:</span> <a href="mailto:ramayentertainment@gmail.com" className="hover:text-sky-400 text-slate-300 font-semibold">ramayentertainment@gmail.com</a></p>
             </div>
           </div>
 

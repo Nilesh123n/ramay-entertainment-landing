@@ -31,7 +31,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenContact, onOpenPitchDeck }
             }}
             className="flex items-center gap-2 whitespace-nowrap focus:outline-none"
           >
-            <Logo showUploadTrigger={true} />
+            <Logo />
           </a>
         </div>
 

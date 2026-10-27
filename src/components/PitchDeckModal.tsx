@@ -131,7 +131,7 @@ export const PitchDeckModal: React.FC<PitchDeckModalProps> = ({ isOpen, onClose,
             <p><strong>Indore HQ:</strong> Vijay Nagar Commercial Hub, Indore, MP 452010</p>
             <p><strong>Bhopal Studio:</strong> MP Nagar Zone-II, Bhopal, MP 462011</p>
             <p><strong>Mumbai Liaison:</strong> Andheri West, Mumbai, Maharashtra 400053</p>
-            <p><strong>Phone:</strong> +91 98260 00000 · <strong>Email:</strong> business@ramayentertainment.com</p>
+            <p><strong>Phone:</strong> +91 90396 55399 · <strong>WhatsApp:</strong> +91 99935 40314 · <strong>Email:</strong> ramayentertainment@gmail.com</p>
           </div>
           <button
             onClick={() => {
@@ -301,8 +301,8 @@ export const PitchDeckModal: React.FC<PitchDeckModalProps> = ({ isOpen, onClose,
 
               <div className="pt-4 border-t border-slate-200 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs">
                 <div>
-                  <p className="font-bold text-slate-800">Direct Inquiries: business@ramayentertainment.com</p>
-                  <p className="text-slate-500">Central India HQ: Indore & Bhopal · Mumbai Liaison</p>
+                  <p className="font-bold text-slate-800">Direct Inquiries: ramayentertainment@gmail.com · Phone: +91 90396 55399</p>
+                  <p className="text-slate-500">Central India HQ: Indore & Bhopal · WhatsApp: +91 99935 40314</p>
                 </div>
                 <button
                   onClick={() => {

@@ -113,11 +113,13 @@ export const Hero: React.FC<HeroProps> = ({ onOpenContact, onExploreServices }) 
               {/* Floating mini stat callouts */}
               <div className="p-3 bg-gradient-to-r from-sky-50 to-white rounded-xl mt-2 border border-sky-100 flex items-center justify-between text-xs">
                 <div className="flex items-center gap-2">
-                  <div className="w-7 h-7 rounded-lg bg-sky-600 text-white flex items-center justify-center font-bold">
-                    R
-                  </div>
+                  <img
+                    src="/assets/aistudio/images__4__c39db79e.jfif"
+                    alt="Ramay Entertainment"
+                    className="w-9 h-9 rounded-lg object-cover border border-sky-200 shadow-2xs"
+                  />
                   <div>
-                    <p className="font-bold text-slate-900">Central India HQ</p>
+                    <p className="font-bold text-slate-900">Ramay Central India HQ</p>
                     <p className="text-[11px] text-slate-500">Madhya Pradesh · Pan-India Network</p>
                   </div>
                 </div>

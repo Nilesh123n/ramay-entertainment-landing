@@ -129,7 +129,8 @@ export const PrivacyPolicyModal: React.FC<PrivacyPolicyModalProps> = ({
                 <div className="mt-2 p-3 bg-slate-50 rounded-lg border border-slate-200 text-xs text-slate-800">
                   <p><strong>Grievance Officer:</strong> Legal & Regulatory Affairs, Ramay Entertainment</p>
                   <p><strong>Office:</strong> Vijay Nagar Commercial Hub, AB Road, Indore, Madhya Pradesh 452010</p>
-                  <p><strong>Email:</strong> legal@ramayentertainment.com</p>
+                  <p><strong>Phone:</strong> +91 90396 55399</p>
+                  <p><strong>Email:</strong> ramayentertainment@gmail.com</p>
                 </div>
               </div>
             </div>

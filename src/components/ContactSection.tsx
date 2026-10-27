@@ -74,7 +74,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
     const text = encodeURIComponent(
       `Hello Ramay Entertainment team, I would like to inquire about your media distribution and production services for my brand ${formData.companyName || ''}.`
     );
-    window.open(`https://wa.me/919826000000?text=${text}`, '_blank');
+    window.open(`https://wa.me/919993540314?text=${text}`, '_blank');
   };
 
   return (
@@ -142,14 +142,14 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
               <div className="pt-4 border-t border-slate-100 space-y-3 text-sm">
                 <div className="flex items-center gap-3 text-slate-700">
                   <Phone className="w-4 h-4 text-sky-600 shrink-0" />
-                  <a href="tel:+919826000000" className="hover:text-sky-600 font-medium">
-                    +91 98260 00000 / +91 755 4900000
+                  <a href="tel:+919039655399" className="hover:text-sky-600 font-semibold text-slate-900">
+                    +91 90396 55399
                   </a>
                 </div>
                 <div className="flex items-center gap-3 text-slate-700">
                   <Mail className="w-4 h-4 text-sky-600 shrink-0" />
-                  <a href="mailto:business@ramayentertainment.com" className="hover:text-sky-600 font-medium">
-                    business@ramayentertainment.com
+                  <a href="mailto:ramayentertainment@gmail.com" className="hover:text-sky-600 font-semibold text-slate-900">
+                    ramayentertainment@gmail.com
                   </a>
                 </div>
                 <div className="flex items-center gap-3 text-slate-700 text-xs">
@@ -163,10 +163,10 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
                 <button
                   type="button"
                   onClick={openWhatsApp}
-                  className="w-full py-3 bg-emerald-600 hover:bg-emerald-500 text-white rounded-xl font-semibold text-xs transition-colors flex items-center justify-center gap-2 shadow-xs cursor-pointer"
+                  className="w-full py-3.5 bg-emerald-600 hover:bg-emerald-500 text-white rounded-xl font-semibold text-xs transition-colors flex items-center justify-center gap-2 shadow-xs cursor-pointer"
                 >
                   <MessageSquare className="w-4 h-4" />
-                  <span>Chat on WhatsApp Directly</span>
+                  <span>Chat on WhatsApp (+91 99935 40314)</span>
                 </button>
               </div>
             </div>
