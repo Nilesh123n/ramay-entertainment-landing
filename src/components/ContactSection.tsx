@@ -97,44 +97,18 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
           <div className="lg:col-span-5 space-y-6">
             <div className="bg-white rounded-2xl border border-sky-100 p-6 sm:p-7 shadow-xs space-y-6">
               <h3 className="text-xl font-bold text-slate-900 font-heading">
-                Central India HQ & Network Hubs
+                Central India Headquarters
               </h3>
 
-              {/* Central India Indore Office */}
-              <div className="flex items-start gap-3.5">
-                <div className="w-9 h-9 rounded-xl bg-sky-50 text-sky-600 flex items-center justify-center shrink-0">
+              {/* Central India Ujjain HQ */}
+              <div className="flex items-start gap-3.5 p-4 rounded-xl bg-sky-50/70 border border-sky-100">
+                <div className="w-9 h-9 rounded-xl bg-sky-600 text-white flex items-center justify-center shrink-0">
                   <MapPin className="w-5 h-5" />
                 </div>
                 <div className="text-sm">
-                  <span className="font-bold text-slate-900 block">Indore Headquarters (Central India)</span>
-                  <p className="text-slate-600 text-xs mt-0.5 leading-relaxed">
-                    Vijay Nagar Commercial Hub, AB Road, Indore, Madhya Pradesh 452010
-                  </p>
-                </div>
-              </div>
-
-              {/* Bhopal Office */}
-              <div className="flex items-start gap-3.5">
-                <div className="w-9 h-9 rounded-xl bg-sky-50 text-sky-600 flex items-center justify-center shrink-0">
-                  <Building2 className="w-5 h-5" />
-                </div>
-                <div className="text-sm">
-                  <span className="font-bold text-slate-900 block">Bhopal Studio & Production Wing</span>
-                  <p className="text-slate-600 text-xs mt-0.5 leading-relaxed">
-                    MP Nagar Zone-II, Bhopal, Madhya Pradesh 462011
-                  </p>
-                </div>
-              </div>
-
-              {/* Mumbai Liaison */}
-              <div className="flex items-start gap-3.5">
-                <div className="w-9 h-9 rounded-xl bg-sky-50 text-sky-600 flex items-center justify-center shrink-0">
-                  <Building2 className="w-5 h-5" />
-                </div>
-                <div className="text-sm">
-                  <span className="font-bold text-slate-900 block">Mumbai Film PR & Entertainment Branch</span>
-                  <p className="text-slate-600 text-xs mt-0.5 leading-relaxed">
-                    Oshiwara / Andheri West, Mumbai, Maharashtra 400053
+                  <span className="font-bold text-slate-900 block">Central India HQ</span>
+                  <p className="text-slate-700 text-xs mt-1 leading-relaxed font-medium">
+                    113, Dewas road, Ujjain, Madhya Pradesh 456010
                   </p>
                 </div>
               </div>
@@ -310,8 +284,8 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
                       className="w-full px-3.5 py-2.5 text-sm rounded-lg border border-slate-200 focus:border-sky-500 focus:ring-2 focus:ring-sky-200 outline-none transition-all bg-white"
                     >
                       <option value="Pan-India">Pan-India (Tier 1, 2 & 3 National)</option>
-                      <option value="Central India">Central India Focus (Indore, Bhopal, MP/CG)</option>
-                      <option value="Metro Clusters">Top 8 Metros (Mumbai, Delhi-NCR, Bengaluru, etc.)</option>
+                      <option value="Central India">Central India Focus (Ujjain, MP & Regional Markets)</option>
+                      <option value="Metro Clusters">Top 8 Metros (Delhi-NCR, Bengaluru, Mumbai, etc.)</option>
                       <option value="PIN-Code Targeted">Micro PIN-Code Geo Clusters (JioHotstar)</option>
                     </select>
                   </div>

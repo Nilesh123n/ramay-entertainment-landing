@@ -128,7 +128,7 @@ export const PrivacyPolicyModal: React.FC<PrivacyPolicyModalProps> = ({
                 </p>
                 <div className="mt-2 p-3 bg-slate-50 rounded-lg border border-slate-200 text-xs text-slate-800">
                   <p><strong>Grievance Officer:</strong> Legal & Regulatory Affairs, Ramay Entertainment</p>
-                  <p><strong>Office:</strong> Vijay Nagar Commercial Hub, AB Road, Indore, Madhya Pradesh 452010</p>
+                  <p><strong>Office:</strong> 113, Dewas road, Ujjain, Madhya Pradesh 456010</p>
                   <p><strong>Phone:</strong> +91 90396 55399</p>
                   <p><strong>Email:</strong> ramayentertainment@gmail.com</p>
                 </div>
@@ -171,7 +171,7 @@ export const PrivacyPolicyModal: React.FC<PrivacyPolicyModalProps> = ({
                   4. Jurisdiction
                 </h4>
                 <p className="mt-1">
-                  All commercial agreements are governed by the laws of India, and disputes shall be subject to the exclusive jurisdiction of the competent courts in Indore / Central India.
+                  All commercial agreements are governed by the laws of India, and disputes shall be subject to the exclusive jurisdiction of the competent courts in Ujjain, Madhya Pradesh.
                 </p>
               </div>
             </div>

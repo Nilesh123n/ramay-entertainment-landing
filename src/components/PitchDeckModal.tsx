@@ -128,9 +128,7 @@ export const PitchDeckModal: React.FC<PitchDeckModalProps> = ({ isOpen, onClose,
             Ramay Entertainment acts as your strategic media partner to scale presence through a structured, professional, and results-oriented roadmap.
           </p>
           <div className="p-3 bg-slate-50 rounded-lg text-xs space-y-1">
-            <p><strong>Indore HQ:</strong> Vijay Nagar Commercial Hub, Indore, MP 452010</p>
-            <p><strong>Bhopal Studio:</strong> MP Nagar Zone-II, Bhopal, MP 462011</p>
-            <p><strong>Mumbai Liaison:</strong> Andheri West, Mumbai, Maharashtra 400053</p>
+            <p><strong>Central India HQ:</strong> 113, Dewas road, Ujjain, Madhya Pradesh 456010</p>
             <p><strong>Phone:</strong> +91 90396 55399 · <strong>WhatsApp:</strong> +91 99935 40314 · <strong>Email:</strong> ramayentertainment@gmail.com</p>
           </div>
           <button
@@ -302,7 +300,7 @@ export const PitchDeckModal: React.FC<PitchDeckModalProps> = ({ isOpen, onClose,
               <div className="pt-4 border-t border-slate-200 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs">
                 <div>
                   <p className="font-bold text-slate-800">Direct Inquiries: ramayentertainment@gmail.com · Phone: +91 90396 55399</p>
-                  <p className="text-slate-500">Central India HQ: Indore & Bhopal · WhatsApp: +91 99935 40314</p>
+                  <p className="text-slate-500">Central India HQ: 113, Dewas road, Ujjain, Madhya Pradesh 456010 · WhatsApp: +91 99935 40314</p>
                 </div>
                 <button
                   onClick={() => {

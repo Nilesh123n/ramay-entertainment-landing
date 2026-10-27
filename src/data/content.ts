@@ -75,7 +75,7 @@ export const SERVICE_OFFERINGS: ServiceOffering[] = [
     metricLabel: 'Hyperlocal City Hubs',
     category: 'b2b-regional',
     features: [
-      'Deep penetration in Central India (Indore, Bhopal, Jabalpur, Gwalior, Raipur) & beyond',
+      'Deep penetration in Central India (Ujjain, Jabalpur, Gwalior, Sagar, Raipur) & beyond',
       'Local language nuances and community trust',
       'Hyperlocal product launch amplification',
       'City-by-city targeted social distribution'
